@@ -1,4 +1,9 @@
-# Derrick's site
+## Derrick's site
+
+# Header 1
+## Header 2
+### Header 3
+
 
 You can use the [editor on GitHub](https://github.com/dbedwards/dbedwards.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
