@@ -5,6 +5,9 @@ A resistor is an electrical component. It uses resistance as an element of a cir
 
 [Wikipedia Resistors](https://en.wikipedia.org/wiki/Resistor)
 ## Capacitors
+A capacitor stores energy in an electric field. What a capacitor does is called capacitance. A capacitor is a component designed to add capacitance to a circuit. Most capacitors have at least two electrical conductors. When voltage goes across the terminals of a capacitor, like when a capacitor is connected across a battery, an electric field forms across the dielectric, overall making a positive charge on one plate and a negative charge on the other plate. No current actually flows through the dielectric, but charge does go through the circuit that the capacitor is in. If the condition stays long enough, the current in the circuit stops. If a varying voltage goes across the leads of the capacitor, an ongoing current happens because of the charging and discharging cycles of the capacitor.
+
+[Wikipedia Capacitors](https://en.wikipedia.org/wiki/Capacitors)
 ## LEDs
 ## Transistors
 ## Inductors
