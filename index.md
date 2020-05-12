@@ -9,6 +9,9 @@ A capacitor stores energy in an electric field. What a capacitor does is called 
 
 [Wikipedia Capacitors](https://en.wikipedia.org/wiki/Capacitors)
 ## LEDs
+A light-emitting diode, or LED, is a light source that shows light when current flows through it. Now, LEDs are available in wavelengths for visible, ultraviolet (UV), and infrared wavelengths. LEDs have lots of advantages over incandescent lights, like lower energy consumption, longer lifetime, and smaller size. LEDs are used in things like airplane lights, car headlamps, advertising, normal lighting, traffic lights, and camera flashes.
+
+[Wikipedia LEDs](https://en.wikipedia.org/wiki/Light-emitting_diode)
 ## Transistors
 ## Inductors
 ## Integrated Circuits
