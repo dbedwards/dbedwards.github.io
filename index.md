@@ -14,3 +14,4 @@ A light-emitting diode, or LED, is a light source that shows light when current 
 [Wikipedia LEDs](https://en.wikipedia.org/wiki/Light-emitting_diode)
 ## Transistors
 A transistor is a device used to amplify or switch electronic signals. It's made of a semiconductor and usually has three terminals, so it can connect to a circuit. A current on one pair of the transistor's terminals controls the current through another pair of terminals. Since the output power can be higher than the input power, a transistor can amplify a signal.
+[Wikipedia Transistors](https://en.wikipedia.org/wiki/Transistor)
